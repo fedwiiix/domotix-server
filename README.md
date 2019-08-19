@@ -1,6 +1,8 @@
 # Domotix Server
 Back-end of domotix server in Aya Project
 
+this backend allows to have an SMS notification for agenda event. It allows database saves.
+
 ### Use
 
 Get Events in calendar and notify
